@@ -14,3 +14,11 @@ sectionA.innerHTML = "hello world!";
 // element.getAttribute()
 // element.setAttribute()
 // element.removeAttribute()
+
+// Khusus Class :
+// element.classList.add()
+// element.classList.remove()
+// element.classList.toggle()
+// element.classList.item()
+// element.classList.contains()
+// element.classList.replace()
