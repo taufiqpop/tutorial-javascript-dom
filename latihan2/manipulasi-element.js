@@ -1,3 +1,5 @@
+// Manipulasi Element
+
 // Inner HTML
 const judul = document.getElementById("judul");
 judul.innerHTML = "<em>Taufiq Pop</em>";
